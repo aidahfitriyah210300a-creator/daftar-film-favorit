@@ -1,2 +1,0 @@
-Flask==2.3.3  # Framework web utama
-gunicorn==20.1.0  # Server WSGI untuk deployment
