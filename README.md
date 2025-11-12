@@ -1,1 +1,1 @@
-daftae-film-favorit
+daftar-film-favorit
